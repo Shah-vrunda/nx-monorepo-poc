@@ -4,10 +4,12 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/BE-e2e"
+      "path": "./apps/BE"
     },
     {
-      "path": "./apps/BE"
+      "path": "./apps/FE"
     }
   ]
 }
+
+// This file is used to configure TypeScript for the entire monorepo.

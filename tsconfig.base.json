@@ -19,3 +19,6 @@
     "customConditions": ["development"]
   }
 }
+
+// basic tsconfig rules
+//
